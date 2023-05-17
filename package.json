@@ -1,0 +1,33 @@
+{
+  "name": "git-essentials",
+  "displayName": "Laravel Essentials",
+  "description": "The 2023 Collection of extensions for the modern developer using Laravel on VS Code",
+  "version": "0.2.0",
+  "publisher": "TechieCouch",
+  "icon": "images/logo.jpg",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechieCouch/php-essentials"
+  },
+  "keywords": [
+    "Git",
+    "gitignore",
+    "git blame",
+    "git graph",
+    "git history",
+    "open in github",
+    "git lens",
+    "sync to git",
+    "git merge"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "onecentlin.laravel-blade"
+  ]
+}
