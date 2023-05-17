@@ -16,18 +16,42 @@
     "url": "https://github.com/TechieCouch/php-essentials"
   },
   "keywords": [
-    "Git",
-    "gitignore",
-    "git blame",
-    "git graph",
-    "git history",
-    "open in github",
-    "git lens",
-    "sync to git",
-    "git merge"
+    "PHP",
+    "laravel",
+    "inertia",
+    "blade",
+    "controller",
+    "livewire",
+    "env",
+    "tailwindcss",
+    "headwind",
+    "PHPUnit",
+    "PhpStorm"
   ],
   "extensionPack": [
     "publisher.extensionName",
-    "onecentlin.laravel-blade"
+    "onecentlin.laravel-blade",
+    "ryannaddy.laravel-artisan",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "codingyu.laravel-goto-view",
+    "shufo.vscode-blade-formatter",
+    "ctf0.laravel-goto-controller",
+    "nhedger.inertia",
+    "cierra.livewire-vscode",
+    "bradlc.vscode-tailwindcss",
+    "bourhaouta.tailwindshades",
+    "heybourn.headwind",
+    "macieklad.tailwind-sass-syntax",
+    "austenc.tailwind-docs",
+    "onecentlin.phpunit-snippets",
+    "recca0120.vscode-phpunit",
+    "bmewburn.vscode-intelephense-client",
+    "xdebug.php-debug",
+    "MrChetan.phpstorm-parameter-hints-in-vscode",
+    "MehediDracula.php-constructor",
+    "MehediDracula.php-namespace-resolver",
+    "kotfire.php-add-property",
+    "neilbrayfield.php-docblocker",
+    "mikestead.dotenv"
   ]
 }
