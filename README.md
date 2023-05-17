@@ -1,5 +1,11 @@
 # Laravel Essentials Extension Pack 2023 - TechieCouch
 
+---
+
+[![Version](https://vsmarketplacebadges.dev/version/TechieCouch.laravel-php-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.laravel-php-essentials)
+[![Installs](https://vsmarketplacebadges.dev/installs/TechieCouch.laravel-php-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.laravel-php-essentials)
+[![Ratings](https://vsmarketplacebadges.dev/downloads/TechieCouch.laravel-php-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.laravel-php-essentials)
+
 ## Extensions included
 
 - [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support for Visual Studio Code.
