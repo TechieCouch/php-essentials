@@ -2,7 +2,7 @@
   "name": "laravel-php-essentials",
   "displayName": "Laravel & PHP Essentials",
   "description": "The 2023 Collection of extensions for the modern developer using Laravel on VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
